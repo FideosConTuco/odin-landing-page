@@ -86,3 +86,36 @@
     font-weight: bolder;
     font-size: 14px;
 }
+
+/* Information section */
+
+.information-title {
+    text-align: center;
+    padding: 10px;
+    margin: 5px 5px 40px;
+}
+
+.information {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+
+.information-images {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.images-box {
+    border: 2px solid #3882F6;
+    border-radius: 10px;
+    padding: 100px;
+}
+
+.information-images > p {
+    text-align: center;
+    max-width: 150px;
+    margin-top: 5px;
+}

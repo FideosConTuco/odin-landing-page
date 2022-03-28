@@ -119,3 +119,26 @@
     max-width: 150px;
     margin-top: 5px;
 }
+
+/* Quote section */
+
+.quote-section {
+    padding: 100px;
+    margin-top: 50px;
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: lighter;
+    max-width: 915px;
+}
+
+.quote-author {
+    margin-left: 400px;
+}

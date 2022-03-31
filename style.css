@@ -178,3 +178,18 @@
     font-weight: bolder;
     color: white;
 }
+
+/* Footer */
+
+.footer {
+    background-color: #1F2937;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-text {
+    color: #F9FAF8;
+    font-weight: lighter;
+}

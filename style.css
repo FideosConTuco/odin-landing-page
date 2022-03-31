@@ -142,3 +142,39 @@
 .quote-author {
     margin-left: 400px;
 }
+
+/* Call to action section */
+
+.call-to-action {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 150px 300px 150px 300px;
+    padding: 75px;
+    border-radius: 10px;
+    background-color: #3882F6;
+}
+
+.call-text {
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+.call-text > h1 {
+    font-weight: bolder;
+}
+
+.call-secondary-text {
+    display: flex;
+}
+
+.call-button {
+    padding: 10px 40px;
+    background-color: #3882F6;
+    border: 1px solid white;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bolder;
+    color: white;
+}
